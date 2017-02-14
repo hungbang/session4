@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayInfo>
+	<Name>Hung Bang</Name>
+	<CreditCard Limit="10000" Currency="VND" />
+	<Number>6543 0943 4948 2930</Number>
+	<Issuer>Bank American</Issuer>
+	<Expiration>06/2017</Expiration>
+</PayInfo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayInfo-Output>
+	<Introduce>List PayInfo</Introduce>
+	<SelectStmnt>Select Name, Number, Issuer,Expiration, Limitabc, Currency from
+		PayInfo</SelectStmnt>
+
+	<PayInfo>
+		<Name>$Name</Name>
+		<CreditCard Limit="$Limitabc" Currency="$Currency" />
+		<Number>$Number</Number>
+		<Issuer>$Issuer</Issuer>
+		<Expiration>$Expiration</Expiration>
+	</PayInfo>
+
+	<Conclusion>End of List</Conclusion>
+</PayInfo-Output>
